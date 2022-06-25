@@ -12,6 +12,6 @@
     "koa": "^2.5.1",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.4.0",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.6.7"
   }
 }
